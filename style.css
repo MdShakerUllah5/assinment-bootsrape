@@ -1,0 +1,56 @@
+.me img{
+   width: 30%;
+}
+.container h1{
+    color: blue;
+}
+.container h2{
+    color: rgb(255, 251, 0);
+}
+.half-width img{
+     width: 400px;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.btn-sm img{
+    width: 40px;
+}
+.help{
+    margin-left: 5%;
+    border: 0;
+}
+.image img{
+    width: 55%;
+}
+.help{
+    padding: 2%;
+    height: 5%;
+    margin-top: 4%%;
+    float: left;
+    display: flex;
+}
+.title{
+    padding: 7%;
+
+}
+.YOU{
+    display: flex;
+    GRID: GAP 5px;
+}
+.shaker img{
+    width: 80%;
+}
+.shaker-2{
+    display: flex;
+}
+.our{
+    display: flex;
+}
+.his{
+    margin: 100%;
+}
